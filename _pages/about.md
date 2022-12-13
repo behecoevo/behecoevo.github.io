@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+The Behavioural Ecology and Evolution Group is a team of dedicated scientists who are interested in studying the behavior of animals, how it relates to their ecology and how it has evolved over time. Our team is made up of researchers from a variety of backgrounds and nationalities, , and we use a variety of methods to study the behavior of animals in the wild and in controlled laboratory environments.
+
+Our research focuses on understanding the mechanisms underlying animal behavior, and how these behaviors have evolved. We are particularly interested in studying how animals make decisions, how animals communicate, and how they form social relationships.
+
+Our team has a long history of conducting field research, and we have conducted studies in a variety of locations around the world, including the Great Barrier Reef (Lizard Island, Australia), endimism centers (Oahu, Hawaii and Moorea, French Polynesia), Atlantic estuaries (Tejo and Sado, Portugal). We also have a state-of-the-art laboratory for behavioural and cognitive research (in Laboratório Marítimo da Guia, Cascais, Portugal) where we conduct experiments to study the behavior of animals in controlled environments.
+
+In addition to our research, we are committed to sharing our findings with the broader scientific community. We also engage with the public to help educate people about our research and the importance of studying animal behavior.
+
+If you are interested in learning more about our research or joining our team, please email us at jrpaula@fc.ul.pt. We would be happy to hear from you!
 
 A data-driven personal website
 ======
