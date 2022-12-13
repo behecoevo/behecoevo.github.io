@@ -13,7 +13,7 @@ The Behavioural Ecology and Evolution Group is a team of dedicated scientists wh
 
 Our research focuses on understanding the mechanisms underlying animal behavior, and how these behaviors have evolved. We are particularly interested in studying how animals make decisions, how animals communicate, and how they form social relationships.
 
-Our team has a long history of conducting field research, and we have conducted studies in a variety of locations around the world, including the Great Barrier Reef (Lizard Island, Australia), endimism centers (Oahu, Hawaii and Moorea, French Polynesia), Atlantic estuaries (Tejo and Sado, Portugal). We also have a state-of-the-art laboratory for behavioural and cognitive research (in Laboratório Marítimo da Guia, Cascais, Portugal) where we conduct experiments to study the behavior of animals in controlled environments.
+Our team has a long history of conducting field research, and we have conducted studies in a variety of locations around the world, including the Great Barrier Reef (Lizard Island, Australia), endemism centers (Oahu, Hawaii and Moorea, French Polynesia), Atlantic estuaries (Tejo and Sado, Portugal). We also have a state-of-the-art laboratory for behavioural and cognitive research (in Laboratório Marítimo da Guia, Cascais, Portugal) where we conduct experiments to study the behavior of animals in controlled environments.
 
 In addition to our research, we are committed to sharing our findings with the broader scientific community. We also engage with the public to help educate people about our research and the importance of studying animal behavior.
 
